@@ -1,3 +1,7 @@
+# nextjs-ts-tailwind-starter
+
+A starter template for Next.js applications using TypeScript and Tailwind CSS. This repository comes pre-configured with Husky for Git hooks, ESLint for code quality, and Prettier for consistent formatting, making it an ideal starting point for modern web development.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
