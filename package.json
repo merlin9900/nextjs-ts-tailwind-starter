@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky",
     "check-types": "tsc --pretty --noEmit",
-    "check-format": "prettier --write .",
+    "check-format": "prettier --check .",
     "check-lint": "eslint .",
     "format": "pnpm check-format && pnpm check-lint && pnpm run check-types && pnpm build"
   },
